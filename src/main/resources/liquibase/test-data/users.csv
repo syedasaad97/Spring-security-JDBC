@@ -1,0 +1,4 @@
+id,password,name,email,is_active
+1,$2a$12$75G11xPEarC83VZOZEo20e7eysWtP9vTxSPDgHAQTOHMSDTDsaBoC,Asaad,asaad@localhost.com,TRUE
+2,$2a$12$75G11xPEarC83VZOZEo20e7eysWtP9vTxSPDgHAQTOHMSDTDsaBoC,User1,user@localhost.com,TRUE
+3,$2a$12$75G11xPEarC83VZOZEo20e7eysWtP9vTxSPDgHAQTOHMSDTDsaBoC,User2,user2@localhost.com,FALSE
